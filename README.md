@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">I love building stuff with code.</h3>
 
-- 🔭 I’m currently working on [a Python learning course](www.pythonexpert.dev) and [TOEIC test practice website](https://www.toeicbuddy.com)
+- 🔭 I’m currently working on [a Python learning course](https://www.pythonexpert.dev) and [TOEIC test practice website](https://www.toeicbuddy.com)
 
 - 🌱 I’m currently learning **system architecture, mainly event-driven microservices.**
 
